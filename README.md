@@ -1,2 +1,23 @@
-# beecrowd-solutions
-Soluções de exercícios de lógica de programação em Python (Beecrowd/URI)
+# Exercícios Beecrowd - Python
+
+Soluções de problemas de lógica de programação da plataforma Beecrowd.
+
+## Problemas Resolvidos (12)
+
+- ✅ 1000 - Hello World!
+- ✅ 1001 - Extremely Basic
+- ✅ 1002 - Area of a Circle
+- ✅ 1003 - Simple Sum
+- ✅ 1004 - Simple Product
+- ✅ 1005 - Average 1
+- ✅ 1006 - Average 2
+- ✅ 1007 - Difference
+- ✅ 1008 - Salary
+- ✅ 1009 - Salary with Bonus
+- ✅ 1010 - Simple Calculate
+- ✅ 1011 - Sphere
+- ✅ 1012 - Area
+
+## Tecnologias
+
+- Python 3
